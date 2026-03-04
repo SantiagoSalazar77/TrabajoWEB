@@ -1,0 +1,83 @@
+#cabeza
+{
+    top:3.5vh;
+    left:2.5vw;
+    width:7.5vw;
+    height:15vh;
+    position:absolute;
+}
+
+#cabeza img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#chica
+{
+    top:0vh;
+    left:9vw;
+    width:90vw;
+    height:99.3vh;
+    position: absolute;
+}
+
+#chica img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#cabeza2
+{
+    top:0vh;
+    left:70.5vw;
+    width: 25vw;
+    height: 25vh;
+    position: absolute;
+}
+
+#cabeza2 img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#pie
+{
+    top:24.5vh;
+    left:0vw;
+    width: 35vw;
+    height:75vh;
+    position: absolute;
+}
+
+#pie img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#lupa
+{
+    top: 5vh;
+    left: 93vw;
+    width: 5vw;
+    height: 5vh;
+    position: absolute;
+}
+
+#lupa img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#pie2
+{
+    top: 37vh;
+    left: 37vw;
+    width: 1vw;
+    height: 1vh;
+    position: absolute;
+}
+
+#pie2 img{
+    max-width: 10%;
+    max-height: 10%;
+}
